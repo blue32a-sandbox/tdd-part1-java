@@ -1,6 +1,6 @@
 package money;
 
-public class Dollar {
+class Dollar {
     private int amount;
     Dollar(int amount) {
         this.amount = amount;
